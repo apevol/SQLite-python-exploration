@@ -1,2 +1,2 @@
 # SQLite-python-exploration
-Learning map for SQLite database functionality with python.1
+Learning map for SQLite database functionality with python.
